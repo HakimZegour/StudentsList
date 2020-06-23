@@ -1,0 +1,10 @@
+ID,Prenom,Nom,Classe
+1,Jean,Dupont,troisieme
+2,Pierre,Petit,troisieme
+3,Marie,Durand,troisieme
+4,Charles,Martin,seconde
+5,Jeanne,Benoit,seconde
+6,Martine,Hallade,seconde
+7,Henri,Martin,terminale
+8,Jacques,Petit,terminale
+9,François,Moreau,terminale
